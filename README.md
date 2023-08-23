@@ -6,7 +6,7 @@
 <body>
 
 ### Hi there 👋
-
+<img src="puppyPicture.jpg" alt="Puppy Picture">
 **meganpaterson/meganpaterson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
